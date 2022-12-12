@@ -1,0 +1,13 @@
+# Homework 2
+
+## Q1
+1. Please change the path of training data and testing data and run the Q1_Correlation.ipynb file, you should be able to get all the results presented in the report
+
+
+## Q2
+Just run the 3 files you should be able to replicate the results
+1. Q2_kNeighborsClassifier.ipynb
+2. Q2_MLPClassifier.ipynb
+3. Q2_SVM.ipynb
+
+> NOTE: you can just view the ipynb file as it does contain the results
